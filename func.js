@@ -1,6 +1,8 @@
-fucntion double(num)
+fucntion quadraple(num)
 {
-return x*2;
+return x*4;
+
 }
-var x=4;
+var y=4;
+var x=2;
 double(x);
